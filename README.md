@@ -7,9 +7,9 @@ A simple sitemap generator for Laravel3.
 
 Install with Git:
 
-    git clone https://github.com/lifesign/laravel3-sitemap.git
+    git clone https://github.com/lifesign/laravel3-sitemap.git sitemap
 
-put the directory into ``bundles/sitemap``
+move the directory into ``bundles/sitemap``
 then edit ``application/bundles.php`` to autoload messages:
 
 ```php
